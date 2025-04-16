@@ -18,13 +18,12 @@ Technologies Used:
 • EJS: Templating engine for rendering views.
 • dotenv: For environment variable declaration.
 
-Environment Variables to be used:
-
-PORT = <app running port>
-DB_HOST = <db host>
-DB_NAME = <dbname>
-DB_PORT = <db port>
-DB_USER = <dbuser>
-DB_PASSWORD = <dbpassword>
-SESSION_SECRET = <somesecret>
+Environment Variables:
+PORT = app running port
+DB_HOST = db host
+DB_NAME = dbname
+DB_PORT = db port
+DB_USER = dbuser
+DB_PASSWORD = dbpassword
+SESSION_SECRET = somesecret
 PASSCODE= 1234
