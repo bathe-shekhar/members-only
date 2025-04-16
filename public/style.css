@@ -1,0 +1,37 @@
+body {
+    background-color: aliceblue;
+}
+
+.form-container {
+    margin-top: 40px;
+}
+
+.messages-div {
+    margin-top: 60px;
+}
+
+.links-div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: right;
+}
+
+.links-div a {
+    margin-left: 20px;
+
+}
+
+.message-links-div {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+    font-weight: bold;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
